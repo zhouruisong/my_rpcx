@@ -1,0 +1,4 @@
+{
+    "log_path": "/usr/local/sandai/rpcxserver/logs",
+    "server_address": "127.0.0.1:28080"
+}
